@@ -1,4 +1,4 @@
-<H3>G.Hindhu/H3>
+<H3>G.Hindhu</H3>
 <H3>212223230079</H3>
 <H3>Experiment 2</H3>
 
